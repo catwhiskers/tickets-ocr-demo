@@ -1,1 +1,1 @@
-# tickets-ocr-demo
+# ticket-ocr-demo
