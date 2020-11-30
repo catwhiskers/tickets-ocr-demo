@@ -5,7 +5,7 @@
 * High Speed Railway Ticket 
 <img src="ticket_annotated.jpg" alt="High Speed Railway Ticket" width="300"/>
 
-1. Parsed Text:2020/11/19
+1. 2020/11/19
 
 2. 車次 Train826
 
