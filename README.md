@@ -51,4 +51,7 @@
 <img src="transaction_annotated.jpg" alt="Receipt" width="400"/>
 * Receipt details 
 <img src="transaction-detail_annotated.jpg" alt="Receipt" width="400"/>
+* Invoice 
+<img src="invoice_annotated.jpg" alt="Receipt" width="400"/>
+
 
