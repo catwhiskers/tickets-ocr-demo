@@ -1,5 +1,6 @@
 # ticket-ocr-demo
-*Task: parse the chinese, english and arabic numbers from a receipt or train ticket 
+* Task: parse the chinese, english and arabic numbers from a receipt or train ticket 
+* Use [EasyOCR](https://github.com/JaidedAI/EasyOCR) and [tesseract](https://github.com/tesseract-ocr/tesseract) to do OCR 
 
 ### Examples contained in this repository 
 * High Speed Railway Ticket 
